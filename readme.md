@@ -74,7 +74,7 @@ _[b] Disk (VM) is the temp drive available on Virtual Machines_
 
 ### Storage
 
-* Total capacity: __100 TB__
+* Total capacity: __200 TB__
 * Expected transactions per second: __20,000__ per account
 * Total bandwidth: __10 GB in 15 GB out per second__ (5 GB and 10 GB respectively for geo redundant)
 * Maximum number of accounts: __20__ `soft limit`
@@ -171,6 +171,7 @@ _[b] Disk (VM) is the temp drive available on Virtual Machines_
 * http://msdn.microsoft.com/en-us/library/windowsazure/hh744833.aspx
 * http://www.windowsazure.com/en-us/manage/services/web-sites/how-to-scale-websites/
 * http://msdn.microsoft.com/en-us/library/windowsazure/dn133803.aspx
+* http://www.windowsazure.com/en-us/services/storage/
 
 ## Acknowledgements
 
