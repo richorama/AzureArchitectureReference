@@ -89,7 +89,7 @@ _[b] Disk (VM) is the temp drive available on Virtual Machines_
 #### Table Storage
 
 * Expected transactions per second: __2,000__ per table partition
-* Max table size: __100 TB__
+* Max table size: __200 TB__
 * Max row size: __1 MB__
 * Max value size: __64 KB__
 * Max number of values per row: __255__ (including partition key, row key and timestamp) 
@@ -101,7 +101,7 @@ _[b] Disk (VM) is the temp drive available on Virtual Machines_
 * Expected transactions per second: __2,000__ per queue
 * Expected latency: __10 ms__
 * Max message size: __64 KB__
-* Max queue size: __100 TB__
+* Max queue size: __200 TB__
 * Max number of queues: __unlimited__
 * Naming constraints: __queues names no longer than 63 chars__ (lower case)
 
