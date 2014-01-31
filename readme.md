@@ -37,7 +37,7 @@ To find your nearest Data Center, use the [Azure Speed Test](http://azurespeedte
 <th>RAM</th>
 <th>Disk [a]<br/>(Web/Worker)</th>
 <th>Disk [b]<br/>(VM)</th>
-<th>Bandwidth</th>
+<th>Bandwidth<br/>(indicative)/th>
 </tr>
 <tr><td>X-Small</td><td>Shared</td><td>768 MB</td><td>19 GB</td><td>20 GB</td><td>5 Mbps</td></tr>
 <tr><td>Small</td><td>1</td><td>1.75 BB</td><td>224 GB</td><td>70 GB</td><td>100 Mbps</td></tr>
