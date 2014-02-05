@@ -91,6 +91,7 @@ _[b] Disk (VM) is the temp drive available on Virtual Machines_
 * Expected transactions per second: __2,000__ per table partition
 * Max table size: __200 TB__
 * Max row size: __1 MB__
+* Maximum key size __1 KB__ for PartitionKey and RowKey
 * Max value size: __64 KB__
 * Max number of values per row: __255__ (including partition key, row key and timestamp) 
 * Max results per query: __1,000__
@@ -172,6 +173,7 @@ _[b] Disk (VM) is the temp drive available on Virtual Machines_
 * http://www.windowsazure.com/en-us/manage/services/web-sites/how-to-scale-websites/
 * http://msdn.microsoft.com/en-us/library/windowsazure/dn133803.aspx
 * http://www.windowsazure.com/en-us/services/storage/
+* http://msdn.microsoft.com/en-us/library/windowsazure/dd179338.aspx
 
 ## Acknowledgements
 
