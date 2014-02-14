@@ -113,6 +113,7 @@ _[b] Disk (VM) is the temp drive available on Virtual Machines_
 * Max database servers: __6__ per Windows Azure Account `soft limit`
 * Max databases per server: __150__ (including master) `soft limit`
 * SLA: __99.9%__
+* Max number of database backup schedules: __10__ 
 
 # Application Services
 
