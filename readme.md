@@ -47,7 +47,7 @@ To find your nearest Data Center, use the [Azure Speed Test](http://azurespeedte
 <tr><td>A5</td><td>2</td><td>14 GB</td><td>489 GB</td><td>135 GB</td><td>200 Mbps</td></tr>
 <tr><td>A6</td><td>4</td><td>28 GB</td><td>999 GB</td><td>285 GB</td><td>400 Mbps</td></tr>
 <tr><td>A7</td><td>8</td><td>56 GB</td><td>2,039 GB</td><td>605 GB</td><td>800 Mbps</td></tr>
-<tr><td>A8</td><td>8</td><td>56 GB</td><td>1.77 TB</td><td>N/A/td><td>???</td></tr>
+<tr><td>A8</td><td>8</td><td>56 GB</td><td>1.77 TB</td><td>N/A</td><td>???</td></tr>
 <tr><td>A9</td><td>16</td><td>112 GB</td><td>1.77 TB</td><td>N/A</td><td>???</td></tr>
 </tr>
 </table>
