@@ -148,6 +148,10 @@ _[b] Disk (VM) is the temp drive available on Virtual Machines_
 * Max VPN client endpoints: __250__
 * SLA: __99.9%__
 
+## Misc
+
+Co-admins per subscription: __200__
+
 ## Service Levels
 
 <table>
@@ -177,6 +181,7 @@ _[b] Disk (VM) is the temp drive available on Virtual Machines_
 * http://msdn.microsoft.com/en-us/library/windowsazure/dn133803.aspx
 * http://www.windowsazure.com/en-us/services/storage/
 * http://msdn.microsoft.com/en-us/library/windowsazure/dd179338.aspx
+* http://weblogs.asp.net/scottgu/archive/2014/02/20/azure-expressroute-dedicated-networking-web-site-backup-restore-mobile-services-net-support-hadoop-2-2-and-more.aspx
 
 ## Acknowledgements
 
