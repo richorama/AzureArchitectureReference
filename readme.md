@@ -22,6 +22,9 @@ This guide is incomplete. Please fork, adjust and send a pull request (please in
   * US South Central (Texas)
   * US East (Virginia)
   * US West (California)
+* Japan
+  * Japan East (Tokyo)
+  * Japan West (Osaka)
 
 To find your nearest Data Center, use the [Azure Speed Test](http://azurespeedtest.azurewebsites.net/).
 
