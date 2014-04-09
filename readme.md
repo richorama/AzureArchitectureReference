@@ -140,7 +140,7 @@ _[b] Disk (VM) is the temp drive available on Virtual Machines_
 * Max queue size: up to __5 GB__
 * Max number of queues: __10,000__ per service bus namespace `soft limit`
 * Ordering guarantee: __Yes__ (through the use of messaging sessions)
-* Lease / Lock duration: __60 seconds (default)__ (can bre renewed using the RenewLock API)
+* Lease / Lock duration: __60 seconds (default)__ (can bre renewed using the [RenewLock][http://msdn.microsoft.com/library/azure/microsoft.servicebus.messaging.brokeredmessage.renewlock.aspx] API)
 * Naming constraints: __queues names no longer than 260 chars__ (case sensitive)
 * SLA: __99.9%__
 
