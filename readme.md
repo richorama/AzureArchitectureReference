@@ -1,10 +1,10 @@
-# The Windows Azure Architect's Reference
+# The Microsoft Azure Architect's Reference
 
-A one-page summary of the facts and figures for Windows Azure Services.
+A one-page summary of the facts and figures for Microsoft Azure Services.
 
 All figures have been taken from official Microsoft web sites (see the refrences at the bottom).
 
-This reference does not attempt to cover cost. Please refer to the [Windows Azure Pricing Calculator](http://www.windowsazure.com/en-us/pricing/calculator/?scenario=full) instead.
+This reference does not attempt to cover cost. Please refer to the [Azure Pricing Calculator](http://www.windowsazure.com/en-us/pricing/calculator/?scenario=full) instead.
 
 This guide is incomplete. Please fork, adjust and send a pull request (please include a link to official Microsoft documentation for any information added to the page).
 
@@ -115,7 +115,7 @@ _[b] Disk (VM) is the temp drive available on Virtual Machines_
 ### SQL Database
 
 * Max size: __150 GB__
-* Max database servers: __6__ per Windows Azure Account `soft limit`
+* Max database servers: __6__ per Azure Account `soft limit`
 * Max databases per server: __150__ (including master) `soft limit`
 * SLA: __99.9%__
 * Max number of database backup schedules: __10__ per subscription
@@ -124,7 +124,7 @@ _[b] Disk (VM) is the temp drive available on Virtual Machines_
 
 ### Service Bus Queues / Topics & Subscriptions
 
-* Max number of service bus namespaces: __50__ per Windows Azure Acccount
+* Max number of service bus namespaces: __50__ per Azure Acccount
 * Expected transactions per second: __2,000__ per queue
 * Expected latency: __100 ms__
 * Max message size: __256 KB__
