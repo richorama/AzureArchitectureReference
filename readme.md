@@ -112,7 +112,10 @@ _[b] Disk (VM) is the temp drive available on Virtual Machines_
 * Expected transactions per second: __2,000__ per queue
 * Expected latency: __10 ms__
 * Max message size: __64 KB__
+* Max message TTL: __7 days__
 * Max queue size: __200 TB__
+* Ordering guarantee: __NO__
+* Lease / Lock duration: __30 seconds (default) 7 days(max)__
 * Max number of queues: __unlimited__
 * Naming constraints: __queues names no longer than 63 chars__ (lower case)
 
@@ -133,8 +136,11 @@ _[b] Disk (VM) is the temp drive available on Virtual Machines_
 * Expected transactions per second: __2,000__ per queue
 * Expected latency: __100 ms__
 * Max message size: __256 KB__
+* Max message TTL: __Unlimited__
 * Max queue size: up to __5 GB__
 * Max number of queues: __10,000__ per service bus namespace `soft limit`
+* Ordering guarantee: __Yes__ (through the use of messaging sessions)
+* Lease / Lock duration: __60 seconds (default)__ (can bre renewed using the RenewLock API)
 * Naming constraints: __queues names no longer than 260 chars__ (case sensitive)
 * SLA: __99.9%__
 
@@ -171,7 +177,6 @@ Co-admins per subscription: __200__
 </table>
 
 ## References
-
 * http://msdn.microsoft.com/en-us/library/windowsazure/hh767287.aspx
 * http://msdn.microsoft.com/en-us/library/windowsazure/dn249410.aspx
 * http://blogs.msdn.com/b/windowsazure/archive/2012/11/02/windows-azure-s-flat-network-storage-and-2012-scalability-targets.aspx
