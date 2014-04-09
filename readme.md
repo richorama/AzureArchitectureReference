@@ -25,6 +25,11 @@ This guide is incomplete. Please fork, adjust and send a pull request (please in
 * Japan
   * Japan East (Tokyo)
   * Japan West (Osaka)
+* China
+  * Beijing
+  * Shanghai
+
+Note: Microsoft Azure services in China Data Centres are only available for use from within China itself. These data centers are kind-of disconnected from rest of the Microsoft Azure Data Centres. You can visit the chinese version of Microsoft Azure at: http://windowsazure.cn/
 
 To find your nearest Data Center, use the [Azure Speed Test](http://azurespeedtest.azurewebsites.net/).
 
@@ -185,6 +190,7 @@ Co-admins per subscription: __200__
 * http://www.windowsazure.com/en-us/services/storage/
 * http://msdn.microsoft.com/en-us/library/windowsazure/dd179338.aspx
 * http://weblogs.asp.net/scottgu/archive/2014/02/20/azure-expressroute-dedicated-networking-web-site-backup-restore-mobile-services-net-support-hadoop-2-2-and-more.aspx
+* http://blogs.technet.com/b/microsoft_blog/archive/2014/03/26/microsoft-becomes-the-first-global-public-cloud-provider-in-china-with-the-general-availability-of-microsoft-azure-in-the-region.aspx
 
 ## Acknowledgements
 
