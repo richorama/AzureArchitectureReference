@@ -84,13 +84,13 @@ _[b] Disk (VM) is the temp drive available on Virtual Machines_
 
 Notes
 
-* 10 Gbps Ethernet - Connects to Windows Azure services (such as storage and virtual network) and to the Internet
-* 40 Gbps back end, remote direct memory access (RDMA) capable. RDMA is only enabled through applications that use the Network Direct interface. (i.e. HPC Pack 2012 R2)
-* To enable RDMA connectivity, the compute intensive instances must run a guest operating system in the Windows Server 2012 or Windows Server 2008 R2 Guest OS family. RDMA connectivity is not currently supported in Guest OS versions in the Windows Server 2012 R2 family.
-* To use multicore instances such as A8 or A9, you might need to increase the cores quota in your Windows Azure subscription. 
-* Initially availble in selected regions, starting with West Europe. (Feb 2014)
-* PaaS only.
-* At this time, A8 or A9 instances cannot be deployed by using a cloud service that is part of an existing affinity group. Likewise, an affinity group with a cloud service containing A8 or A9 instances cannot be used for deployments of other instance sizes.
+* PaaS only
+* 10 Gbps Ethernet
+* 40 Gbps back end, Remote Direct Memory Access (RDMA) capable. 
+* RDMA is only enabled through applications that use the Network Direct interface. (i.e. HPC Pack 2012 R2 on Windows Server 2012 or Windows Server 2008 R2. NOT supported on the Windows Server 2012 R2)
+* You might need to increase the default cores quota in your Windows Azure subscription
+* Only available in West Europe. (Feb 2014)
+* Cannot be deployed by using a cloud service that is part of an existing affinity group. Likewise, an affinity group with a cloud service containing A8 or A9 instances cannot be used for deployments of other instance sizes.
 
 ### Web Sites
 
