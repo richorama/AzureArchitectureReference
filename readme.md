@@ -87,7 +87,7 @@ Notes
 * PaaS only
 * 10 Gbps Ethernet
 * 40 Gbps back end, Remote Direct Memory Access (RDMA) capable. 
-* RDMA is only enabled through applications that use the Network Direct interface. (i.e. HPC Pack 2012 R2 on Windows Server 2012 or Windows Server 2008 R2. NOT supported on the Windows Server 2012 R2)
+* RDMA is only enabled through applications that use the Network Direct interface. (i.e. HPC Pack 2012 R2 on Windows Server 2012 or Windows Server 2008 R2. __NOT__ supported on Windows Server 2012 R2)
 * You might need to increase the default cores quota in your Windows Azure subscription
 * Only available in West Europe. (Feb 2014)
 * Cannot be deployed by using a cloud service that is part of an existing affinity group. Likewise, an affinity group with a cloud service containing A8 or A9 instances cannot be used for deployments of other instance sizes.
