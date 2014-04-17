@@ -277,9 +277,9 @@ Co-admins per subscription: __200__
 * http://blogs.technet.com/b/microsoft_blog/archive/2014/03/26/microsoft-becomes-the-first-global-public-cloud-provider-in-china-with-the-general-availability-of-microsoft-azure-in-the-region.aspx
 
 #### Big Compute
-http://blogs.technet.com/b/windowshpc/archive/2014/01/30/new-high-performance-capabilities-for-windows-azure.aspx
-http://msdn.microsoft.com/library/azure/dn594431.aspx
-http://msdn.microsoft.com/en-us/library/azure/dn197896.aspx
+* http://blogs.technet.com/b/windowshpc/archive/2014/01/30/new-high-performance-capabilities-for-windows-azure.aspx
+* http://msdn.microsoft.com/library/azure/dn594431.aspx
+* http://msdn.microsoft.com/en-us/library/azure/dn197896.aspx
 
 ## Acknowledgements
 
