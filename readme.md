@@ -37,7 +37,7 @@ To find your nearest Data Center, use the [Azure Speed Test](http://azurespeedte
 
 ### Cloud Services / Virtual Machines
 
-* Virtual Machine sizes:
+Virtual Machine sizes:
 
 <table>
 <tr>
@@ -56,8 +56,6 @@ To find your nearest Data Center, use the [Azure Speed Test](http://azurespeedte
 <tr><td>A5</td><td>2</td><td>14 GB</td><td>489 GB</td><td>135 GB</td><td>200 Mbps</td></tr>
 <tr><td>A6</td><td>4</td><td>28 GB</td><td>999 GB</td><td>285 GB</td><td>400 Mbps</td></tr>
 <tr><td>A7</td><td>8</td><td>56 GB</td><td>2,039 GB</td><td>605 GB</td><td>800 Mbps</td></tr>
-<tr><td>A8</td><td>8</td><td>56 GB</td><td>1,770 GB</td><td>N/A</td><td>???</td></tr>
-<tr><td>A9</td><td>16</td><td>112 GB</td><td>1,770 GB</td><td>N/A</td><td>???</td></tr>
 </tr>
 </table>
 
@@ -65,12 +63,34 @@ _[a] Disk (Web/Worker) is the local storage available on Cloud Services_
 
 _[b] Disk (VM) is the temp drive available on Virtual Machines_
 
-
 * Max disk performance: __500 IOPS__ per disk
 * Max size of Virtual Machine OS Disk: __127 GB__
 * Max roles per deployment: __25__
 * Max endpoints per deployment: __25__ input endpoints, __25__ internal endpoints
 * SLA: __99.95%__ (with two or more role instances in different fault and upgrade domains)
+
+###Big Compute
+<table>
+<tr>
+<th>Size</th>
+<th>CPU</th>
+<th>RAM</th>
+<th>Disk</th>
+</tr>
+<tr><td>A8</td><td>8 @ 2.6 GHz(Intel® Xeon® E5-2670)</td><td>56 GB (DDR3-1600 MHz)</td><td>1,770 GB</td></tr>
+<tr><td>A9</td><td>16@ 2.6 GHz(Intel® Xeon® E5-2670)</td><td>112 GB (DDR3-1600 MHz)</td><td>1,770 GB</td></tr>
+</tr>
+</table>
+
+Notes
+
+* 10 Gbps Ethernet - Connects to Windows Azure services (such as storage and virtual network) and to the Internet
+* 40 Gbps back end, remote direct memory access (RDMA) capable. RDMA is only enabled through applications that use the Network Direct interface. (i.e. HPC Pack 2012 R2)
+* To enable RDMA connectivity, the compute intensive instances must run a guest operating system in the Windows Server 2012 or Windows Server 2008 R2 Guest OS family. RDMA connectivity is not currently supported in Guest OS versions in the Windows Server 2012 R2 family.
+* To use multicore instances such as A8 or A9, you might need to increase the cores quota in your Windows Azure subscription. 
+* Initially availble in selected regions, starting with West Europe. (Feb 2014)
+* PaaS only.
+* At this time, A8 or A9 instances cannot be deployed by using a cloud service that is part of an existing affinity group. Likewise, an affinity group with a cloud service containing A8 or A9 instances cannot be used for deployments of other instance sizes.
 
 ### Web Sites
 
@@ -255,6 +275,11 @@ Co-admins per subscription: __200__
 * http://msdn.microsoft.com/en-us/library/windowsazure/dd179338.aspx
 * http://weblogs.asp.net/scottgu/archive/2014/02/20/azure-expressroute-dedicated-networking-web-site-backup-restore-mobile-services-net-support-hadoop-2-2-and-more.aspx
 * http://blogs.technet.com/b/microsoft_blog/archive/2014/03/26/microsoft-becomes-the-first-global-public-cloud-provider-in-china-with-the-general-availability-of-microsoft-azure-in-the-region.aspx
+
+#### Big Compute
+http://blogs.technet.com/b/windowshpc/archive/2014/01/30/new-high-performance-capabilities-for-windows-azure.aspx
+http://msdn.microsoft.com/library/azure/dn594431.aspx
+http://msdn.microsoft.com/en-us/library/azure/dn197896.aspx
 
 ## Acknowledgements
 
