@@ -28,6 +28,8 @@ This guide is incomplete. Please fork, adjust and send a pull request (please in
 * China
   * Beijing
   * Shanghai
+* South America
+  * Brazil South (São Paulo) `PREVIEW`
 
 > Note: Microsoft Azure services in China Data Centres are only available for use from within China itself. These data centers are disconnected from rest of the Microsoft Azure Data Centres. You can visit the chinese version of Microsoft Azure at: http://windowsazure.cn/
 
@@ -88,7 +90,6 @@ Notes
 * 10 Gbps Ethernet
 * 40 Gbps back end, Remote Direct Memory Access (RDMA) capable. 
 * RDMA is only enabled through applications that use the Network Direct interface. (i.e. HPC Pack 2012 R2 on Windows Server 2012 or Windows Server 2008 R2. __NOT__ supported on Windows Server 2012 R2)
-* You might need to increase the default cores quota in your Windows Azure subscription
 * Only available in West Europe. (Feb 2014)
 * Cannot be deployed by using a cloud service that is part of an existing affinity group. Likewise, an affinity group with a cloud service containing A8 or A9 instances cannot be used for deployments of other instance sizes.
 
