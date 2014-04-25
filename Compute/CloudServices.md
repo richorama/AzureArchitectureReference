@@ -51,3 +51,15 @@ Notes
 * RDMA is only enabled through applications that use the Network Direct interface. (i.e. HPC Pack 2012 R2 on Windows Server 2012 or Windows Server 2008 R2. __NOT__ supported on Windows Server 2012 R2)
 * Only available in West Europe. (Feb 2014)
 * Cannot be deployed by using a cloud service that is part of an existing affinity group. Likewise, an affinity group with a cloud service containing A8 or A9 instances cannot be used for deployments of other instance sizes.
+ 
+
+---
+
+## References
+
+* [Number of Roles Allowed In Windows Azure Deployments Increased To 25](http://blogs.msdn.com/b/windowsazure/archive/2011/09/01/number-of-roles-allowed-in-windows-azure-deployments-increased-to-25.aspx)
+* [Windows Azure, Increase Cores count	](http://blogs.msdn.com/b/arunrakwal/archive/2012/04/11/windows-azure-how-to-increase-cores-per-subscription.aspx)
+* [Virtual Machine and Cloud Service Sizes for Azure](http://msdn.microsoft.com/library/azure/dn197896.aspx)
+* [New High Performance Capabilities for Windows Azure](http://blogs.technet.com/b/windowshpc/archive/2014/01/30/new-high-performance-capabilities-for-windows-azure.aspx)
+* [A8 and A9 Compute Intensive Instances: Quick Start with HPC Pack](http://msdn.microsoft.com/library/azure/dn594431.aspx)
+* [Virtual Machine and Cloud Service Sizes for Azure](http://msdn.microsoft.com/en-us/library/azure/dn197896.aspx)
