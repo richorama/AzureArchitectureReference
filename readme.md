@@ -51,7 +51,7 @@ Virtual Machine sizes:
 <th>Bandwidth<br/>(indicative)</th>
 </tr>
 <tr><td>X-Small</td><td>Shared</td><td>768 MB</td><td>19 GB</td><td>20 GB</td><td>5 Mbps</td></tr>
-<tr><td>Small</td><td>1</td><td>1.75 BB</td><td>224 GB</td><td>70 GB</td><td>100 Mbps</td></tr>
+<tr><td>Small</td><td>1</td><td>1.75 GB</td><td>224 GB</td><td>70 GB</td><td>100 Mbps</td></tr>
 <tr><td>Medium</td><td>2</td><td>3.5 GB</td><td>489 GB</td><td>135 GB</td><td>200 Mbps</td></tr>
 <tr><td>Large</td><td>4</td><td>7 GB</td><td>999 GB</td><td>285 GB</td><td>400 Mbps</td></tr>
 <tr><td>X-Large</td><td>8</td><td>14 GB</td><td>2,039 GB</td><td>605 GB</td><td>800 Mbps</td></tr>
