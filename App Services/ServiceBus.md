@@ -70,3 +70,12 @@ Capacity Approximations:
 ### Service Bus Relay
 
 * SLA: __99.9%__
+ 
+---
+
+## References
+
+* [Windows Azure Queues and Windows Azure Service Bus Queues - Compared and Contrasted](http://msdn.microsoft.com/library/azure/hh767287.aspx)
+* [Capacity Planning for Service Bus Queues and Topics](http://msdn.microsoft.com/en-us/library/hh694235.aspx)
+* [Windows Azure Service Bus Quotas](http://msdn.microsoft.com/library/azure/ee732538.aspx)
+
