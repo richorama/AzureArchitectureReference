@@ -141,6 +141,20 @@ Notes
 * Max number of queues: __unlimited__
 * Naming constraints: __queues names no longer than 63 chars__ (lower case)
 
+#### Storage Best Practices 
+ref: [MVA - Design & Implementation Jump Start](http://www.microsoftvirtualacademy.com/training-courses/windows-azure-storage-design-and-implementation-jump-start)
+
+* Disable Nagle for small messages (<1.4k)
+* Disable Expect 100-Continue*
+* Increase default connection limit (ex. 100+)
+* Take advantage of .Net 4.5 GC
+
+```csharp
+ServicePointManager.UseNagleAlgorithm = false;
+ServicePointManager.Expect100Continue = false;
+ServicePointManager.DefaultConnectionLimit = 100;
+```
+
 
 ### SQL Database
 
