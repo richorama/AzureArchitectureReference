@@ -1,7 +1,7 @@
 ﻿* Total capacity: __200 TB__
 * Expected transactions per second: __20,000__ per account
 * Total bandwidth: __10 GB in 15 GB out per second__ (5 GB and 10 GB respectively for geo redundant)
-* Maximum number of accounts: __20__ `soft limit`, __50__ [`hard limit`](https://twitter.com/jaiharidas/status/459528997030748160)
+* Maximum number of accounts: __20__ `soft limit`, __50__ `hard limit`
 * SLA: __99.9%__
 
 #### Blob Storage
@@ -33,8 +33,8 @@
 * Max number of queues: __unlimited__
 * Naming constraints: __queues names no longer than 63 chars__ (lower case)
 
-#### Storage Best Practices 
-ref: [MVA - Design & Implementation Jump Start](http://www.microsoftvirtualacademy.com/training-courses/windows-azure-storage-design-and-implementation-jump-start)
+#### Best Practices 
+
 
 * Disable Nagle for small messages (<1.4k)
 * Disable Expect 100-Continue*
@@ -46,3 +46,17 @@ ServicePointManager.UseNagleAlgorithm = false;
 ServicePointManager.Expect100Continue = false;
 ServicePointManager.DefaultConnectionLimit = 100;
 ```
+
+---
+
+## References
+
+* [Windows Azure Queues and Windows Azure Service Bus Queues - Compared and Contrasted](http://msdn.microsoft.com/library/azure/hh767287.aspx)
+* [Azure Storage Scalability and Performance Targets](http://msdn.microsoft.com/library/azure/dn249410.aspx)
+* [Windows Azure’s Flat Network Storage and 2012 Scalability Targets](http://blogs.msdn.com/b/windowsazure/archive/2012/11/02/windows-azure-s-flat-network-storage-and-2012-scalability-targets.aspx)
+* [Windows Azure Table Storage and Windows Azure SQL Database - Compared and Contrasted](http://msdn.microsoft.com/library/azure/jj553018.aspx)
+* [Storage](http://azure.microsoft.com/en-us/services/storage/)
+* [Understanding the Table Service Data Model](http://msdn.microsoft.com/library/azure/dd179338.aspx)
+* [MVA - Design & Implementation Jump Start](http://www.microsoftvirtualacademy.com/training-courses/windows-azure-storage-design-and-implementation-jump-start)
+* [Number of accounts hard limit](https://twitter.com/jaiharidas/status/459528997030748160)
+
