@@ -1,4 +1,4 @@
-﻿# The Microsoft Azure Architect's Reference
+﻿# Azure Architect's Reference
 
 A one-page summary of the facts and figures for Microsoft Azure Services.
 
