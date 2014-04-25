@@ -12,44 +12,42 @@ This guide is incomplete. Please fork, adjust and send a pull request (please in
 
 [Regions & Data Centers](RegionsDataCenters.md)
 
-<table>
-<tr>
-<td>
 ###Compute
-*[Virtual Machines](blob/master/Compute/VirtualMachines.md)
-*[Web Sites](blob/master/Compute/WebSites.md)
-*[Mobile Services](blob/master/Compute/MobileServices.md)
-*[Cloud Services](blob/master/Compute/CloudServices.md)
-</td><td>
+
+[Virtual Machines](Compute/VirtualMachines.md), 
+[Web Sites](Compute/WebSites.md), 
+[Mobile Services](Compute/MobileServices.md), 
+[Cloud Services](Compute/CloudServices.md)
+
 ###Data Services
-*[Storage](blob/master/DataServices/Storage.md)
-*[SQL Database](blob/master/DataServices/SQLDatabases.md)
-*[HDInsight](blob/master/DataServices/HDInsight.md)
-*[Cache](blob/master/DataServices/Cache.md)
-*[Backup](blob/master/DataServices/Backup.md)
-*[Recovery Manager](blob/master/DataServices/RecoveryManager.md)
-</td>
-</tr><tr>
-<td>
+
+[Storage](DataServices/Storage.md), 
+[SQL Database](DataServices/SQLDatabases.md), 
+[HDInsight](DataServices/HDInsight.md), 
+[Cache](DataServices/Cache.md), 
+[Backup](DataServices/Backup.md), 
+[Recovery Manager](DataServices/RecoveryManager.md)
+
 ###App Services
-*[Media Services](blob/master/AppServices/MediaServices.md)
-*[Service Bus](blob/master/AppServices/ServiceBus.md)
-*[Notification Hubs](blob/master/AppServices/NotificationHubs.md)
-*[Scheduler](blob/master/AppServices/Scheduler.md)
-*[BizTalk Services](blob/master/AppServices/BizTalkServices.md)
-*[Visual Studio Online](blob/master/AppServices/VisualStudioOnline.md)
-*[Active Directory](blob/master/AppServices/ActiveDirectory.md)
-*[Multi-Factor Authentication](blob/master/AppServices/MultiFactorAuthentication.md)
-*[Automation](blob/master/AppServices/Automation.md)
-*[CDN](blob/master/AppServices/CDN.md)
-</td><td>
+
+[Media Services](AppServices/MediaServices.md), 
+[Service Bus](AppServices/ServiceBus.md), 
+[Notification Hubs](AppServices/NotificationHubs.md), 
+[Scheduler](AppServices/Scheduler.md), 
+[Automation](AppServices/Automation.md), 
+[CDN](AppServices/CDN.md)
+
+[BizTalk Services](AppServices/BizTalkServices.md), 
+[Visual Studio Online](AppServices/VisualStudioOnline.md)
+
+[Active Directory](AppServices/ActiveDirectory.md), 
+[Multi-Factor Authentication](AppServices/MultiFactorAuthentication.md)
+
 ###Network Services
-*[ExpressRoute](blob/master/AppServices/ExpressRoute.md)
-*[Virtual Network](blob/master/AppServices/VirtualNetwork.md)
-*[Traffic Manager](blob/master/AppServices/TrafficManager.md)
-</td>
-</tr>
-</table>
+
+[ExpressRoute](AppServices/ExpressRoute.md), 
+[Virtual Network](AppServices/VirtualNetwork.md), 
+[Traffic Manager](AppServices/TrafficManager.md)
 
 
 ## Misc
