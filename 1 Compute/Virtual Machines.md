@@ -30,8 +30,6 @@ _[a] Disk (VM) is the temp drive available on Virtual Machines_
 * Max endpoints per deployment: __25__ input endpoints, __25__ internal endpoints
 * SLA: __99.95%__ (with two or more role instances in different fault and upgrade domains)
 
----
-
 #### References
 
 * [Virtual Machine and Cloud Service Sizes for Azure](http://msdn.microsoft.com/library/azure/dn197896.aspx)

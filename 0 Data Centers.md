@@ -24,8 +24,6 @@
 
 To find your nearest Data Center, use the [Azure Speed Test](http://azurespeedtest.azurewebsites.net/).
 
----
-
 #### References
 
 * [Trust Center - Location of Customer Data](http://azure.microsoft.com/en-us/support/trust-center/privacy/)

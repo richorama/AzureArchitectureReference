@@ -5,8 +5,6 @@
 * Application polling: __30 second frequency, 10 second timeout, 3 retries before marked unavailable__
 * SLA: __99.99%__
 
----
-
 #### References
 
 * [Traffic Manager Overview](http://msdn.microsoft.com/library/azure/hh744833.aspx)

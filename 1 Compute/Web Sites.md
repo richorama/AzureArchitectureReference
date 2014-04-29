@@ -7,9 +7,6 @@
 * Max instance count in standard mode: __10__ (large instances)
 * SLA: __99.9%__
 
-
----
-
 #### References
 
 * [Azure: ExpressRoute Dedicated Networking, Web Site Backup Restore, Mobile Services .NET support, Hadoop 2.2, and more](http://weblogs.asp.net/scottgu/archive/2014/02/20/azure-expressroute-dedicated-networking-web-site-backup-restore-mobile-services-net-support-hadoop-2-2-and-more.aspx)

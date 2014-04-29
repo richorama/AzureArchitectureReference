@@ -49,8 +49,6 @@ ServicePointManager.Expect100Continue = false;
 ServicePointManager.DefaultConnectionLimit = 100;
 ```
 
----
-
 ## References
 
 * [Windows Azure Queues and Windows Azure Service Bus Queues - Compared and Contrasted](http://msdn.microsoft.com/library/azure/hh767287.aspx)

@@ -74,8 +74,6 @@ Capacity Approximations:
 
 * SLA: __99.9%__
  
----
-
 #### References
 
 * [Windows Azure Queues and Windows Azure Service Bus Queues - Compared and Contrasted](http://msdn.microsoft.com/library/azure/hh767287.aspx)

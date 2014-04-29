@@ -50,9 +50,6 @@ Notes
 * Only available in West Europe. (Feb 2014)
 * Cannot be deployed by using a cloud service that is part of an existing affinity group. Likewise, an affinity group with a cloud service containing A8 or A9 instances cannot be used for deployments of other instance sizes.
  
-
----
-
 #### References
 
 * [Number of Roles Allowed In Windows Azure Deployments Increased To 25](http://blogs.msdn.com/b/windowsazure/archive/2011/09/01/number-of-roles-allowed-in-windows-azure-deployments-increased-to-25.aspx)

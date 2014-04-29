@@ -38,12 +38,12 @@ This reference is available as a [single page](singlepage.md) or [split into mul
 
 To find your nearest Data Center, use the [Azure Speed Test](http://azurespeedtest.azurewebsites.net/).
 
----
-
 #### References
 
 * [Trust Center - Location of Customer Data](http://azure.microsoft.com/en-us/support/trust-center/privacy/)
 * [Microsoft becomes the first global public cloud provider in China with the general availability of Microsoft Azure in the region](http://blogs.technet.com/b/microsoft_blog/archive/2014/03/26/microsoft-becomes-the-first-global-public-cloud-provider-in-china-with-the-general-availability-of-microsoft-azure-in-the-region.aspx)
+
+---
 
 ## Compute
 
@@ -99,9 +99,6 @@ Notes
 * Only available in West Europe. (Feb 2014)
 * Cannot be deployed by using a cloud service that is part of an existing affinity group. Likewise, an affinity group with a cloud service containing A8 or A9 instances cannot be used for deployments of other instance sizes.
  
-
----
-
 #### References
 
 * [Number of Roles Allowed In Windows Azure Deployments Increased To 25](http://blogs.msdn.com/b/windowsazure/archive/2011/09/01/number-of-roles-allowed-in-windows-azure-deployments-increased-to-25.aspx)
@@ -110,6 +107,8 @@ Notes
 * [New High Performance Capabilities for Windows Azure](http://blogs.technet.com/b/windowshpc/archive/2014/01/30/new-high-performance-capabilities-for-windows-azure.aspx)
 * [A8 and A9 Compute Intensive Instances: Quick Start with HPC Pack](http://msdn.microsoft.com/library/azure/dn594431.aspx)
 * [Virtual Machine and Cloud Service Sizes for Azure](http://msdn.microsoft.com/en-us/library/azure/dn197896.aspx)
+
+---
 
 ### Virtual Machines
 
@@ -143,14 +142,14 @@ _[a] Disk (VM) is the temp drive available on Virtual Machines_
 * Max endpoints per deployment: __25__ input endpoints, __25__ internal endpoints
 * SLA: __99.95%__ (with two or more role instances in different fault and upgrade domains)
 
----
-
 #### References
 
 * [Virtual Machine and Cloud Service Sizes for Azure](http://msdn.microsoft.com/library/azure/dn197896.aspx)
 * [New High Performance Capabilities for Windows Azure](http://blogs.technet.com/b/windowshpc/archive/2014/01/30/new-high-performance-capabilities-for-windows-azure.aspx)
 * [Virtual Machine and Cloud Service Sizes for Azure](http://msdn.microsoft.com/en-us/library/azure/dn197896.aspx)
 * [Windows Azure, Increase Cores count	](http://blogs.msdn.com/b/arunrakwal/archive/2012/04/11/windows-azure-how-to-increase-cores-per-subscription.aspx)
+
+---
 
 ### Web Sites
 
@@ -161,14 +160,13 @@ _[a] Disk (VM) is the temp drive available on Virtual Machines_
 * Max instance count in standard mode: __10__ (large instances)
 * SLA: __99.9%__
 
-
----
-
 #### References
 
 * [Azure: ExpressRoute Dedicated Networking, Web Site Backup Restore, Mobile Services .NET support, Hadoop 2.2, and more](http://weblogs.asp.net/scottgu/archive/2014/02/20/azure-expressroute-dedicated-networking-web-site-backup-restore-mobile-services-net-support-hadoop-2-2-and-more.aspx)
 * [Azure Websites](http://azure.microsoft.com/en-us/develop/net/aspnet/)
 * [How to Scale Web Sites](http://azure.microsoft.com/en-us/documentation/articles/web-sites-scale/)
+
+---
 
 ## App Services
 
@@ -248,13 +246,13 @@ Capacity Approximations:
 
 * SLA: __99.9%__
  
----
-
 #### References
 
 * [Windows Azure Queues and Windows Azure Service Bus Queues - Compared and Contrasted](http://msdn.microsoft.com/library/azure/hh767287.aspx)
 * [Capacity Planning for Service Bus Queues and Topics](http://msdn.microsoft.com/en-us/library/hh694235.aspx)
 * [Windows Azure Service Bus Quotas](http://msdn.microsoft.com/library/azure/ee732538.aspx)
+
+---
 
 ## Data Services
 
@@ -266,12 +264,11 @@ Capacity Approximations:
 * SLA: __99.9%__
 * Max number of database backup schedules: __10__ per subscription
  
-
----
-
 #### References
 
 * [Windows Azure Table Storage and Windows Azure SQL Database - Compared and Contrasted](http://msdn.microsoft.com/library/azure/jj553018.aspx)
+
+---
 
 ### Storage
 
@@ -324,8 +321,6 @@ ServicePointManager.Expect100Continue = false;
 ServicePointManager.DefaultConnectionLimit = 100;
 ```
 
----
-
 ## References
 
 * [Windows Azure Queues and Windows Azure Service Bus Queues - Compared and Contrasted](http://msdn.microsoft.com/library/azure/hh767287.aspx)
@@ -337,6 +332,8 @@ ServicePointManager.DefaultConnectionLimit = 100;
 * [MVA - Design & Implementation Jump Start](http://www.microsoftvirtualacademy.com/training-courses/windows-azure-storage-design-and-implementation-jump-start)
 * [Number of accounts hard limit](https://twitter.com/jaiharidas/status/459528997030748160)
 
+---
+
 ## Network Services
 
 ### Traffic Manager
@@ -346,29 +343,30 @@ ServicePointManager.DefaultConnectionLimit = 100;
 * Application polling: __30 second frequency, 10 second timeout, 3 retries before marked unavailable__
 * SLA: __99.99%__
 
----
-
 #### References
 
 * [Traffic Manager Overview](http://msdn.microsoft.com/library/azure/hh744833.aspx)
+
+---
 
 ### Virtual Network
 
 * Max VPN client endpoints: __250__
 * SLA: __99.9%__
 
-
----
-
 #### References
 
 * [Virtual Network FAQ](http://msdn.microsoft.com/library/azure/dn133803.aspx)
+
+---
 
 
 
 ## Misc
 
 Co-admins per subscription: __200__
+
+---
 
 ## Service Levels
 
@@ -380,11 +378,12 @@ Co-admins per subscription: __200__
 <tr><td>99.999</td><td>5 minutes</td></tr>
 </table>
 
----
 
 #### References
 
 * [Service Level Agreements](http://azure.microsoft.com/en-us/support/legal/sla/)
+
+---
 
 ## Acknowledgements
 

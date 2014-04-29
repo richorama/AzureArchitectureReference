@@ -23,7 +23,7 @@ function appendFile(filename){
 	console.log(filename);
 	var fileContent = fs.readFileSync(filename).toString().trim();
 	if (fileContent.length > 0){
-		content += fileContent + '\n\n';
+		content += fileContent + '\n\n---\n\n';
 		var splitFilename = filename.split('/');
 		var title = splitFilename[splitFilename.length - 1].replace(".md","");
 		links += ' * [' + trimTitle(title) + '](' + filename + ')\n';		

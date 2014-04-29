@@ -18,6 +18,8 @@ This reference is available as a [single page](singlepage.md) or [split into mul
 
 Co-admins per subscription: __200__
 
+---
+
 ## Service Levels
 
 <table>
@@ -28,11 +30,12 @@ Co-admins per subscription: __200__
 <tr><td>99.999</td><td>5 minutes</td></tr>
 </table>
 
----
 
 #### References
 
 * [Service Level Agreements](http://azure.microsoft.com/en-us/support/legal/sla/)
+
+---
 
 ## Acknowledgements
 
