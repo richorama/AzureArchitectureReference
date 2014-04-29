@@ -12,7 +12,10 @@ This reference is available as a [single page](singlepage.md) or [split into mul
 
 ---
 
- * [Data Centers](0 Data Centers.md)
+
+## Physical Infrastructure
+
+ * [Data Centers](0 Physical Infrastructure/Data Centers.md)
 
 ## Compute
 
@@ -34,29 +37,11 @@ This reference is available as a [single page](singlepage.md) or [split into mul
  * [Traffic Manager](4 Network Services/Traffic Manager.md)
  * [Virtual Network](4 Network Services/Virtual Network.md)
 
-
 ## Misc
 
-Co-admins per subscription: __200__
+ * [Account Limitations](5 Misc/Account Limitations.md)
+ * [Service Levels](5 Misc/Service Levels.md)
 
----
-
-## Service Levels
-
-<table>
-<tr><th>SLA %</th><th>Downtime per annum</th></tr>
-<tr><td>99.9</td><td>8 hours 46 minutes</td></tr>
-<tr><td>99.95</td><td>4 hours 23 minutes</td></tr>
-<tr><td>99.99 </td><td>53 minutes</td></tr>
-<tr><td>99.999</td><td>5 minutes</td></tr>
-</table>
-
-
-#### References
-
-* [Service Level Agreements](http://azure.microsoft.com/en-us/support/legal/sla/)
-
----
 
 ## Acknowledgements
 

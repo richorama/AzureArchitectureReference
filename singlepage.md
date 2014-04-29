@@ -12,6 +12,8 @@ This reference is available as a [single page](singlepage.md) or [split into mul
 
 ---
 
+## Physical Infrastructure
+
 ## Data Centers
 
 * Asia Pacific
@@ -360,15 +362,15 @@ ServicePointManager.DefaultConnectionLimit = 100;
 
 ---
 
-
-
 ## Misc
+
+### Account Limitations
 
 Co-admins per subscription: __200__
 
 ---
 
-## Service Levels
+### Service Levels
 
 <table>
 <tr><th>SLA %</th><th>Downtime per annum</th></tr>
@@ -384,6 +386,8 @@ Co-admins per subscription: __200__
 * [Service Level Agreements](http://azure.microsoft.com/en-us/support/legal/sla/)
 
 ---
+
+
 
 ## Acknowledgements
 
