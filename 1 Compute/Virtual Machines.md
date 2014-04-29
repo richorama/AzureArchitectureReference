@@ -32,7 +32,7 @@ _[a] Disk (VM) is the temp drive available on Virtual Machines_
 
 ---
 
-## References
+#### References
 
 * [Virtual Machine and Cloud Service Sizes for Azure](http://msdn.microsoft.com/library/azure/dn197896.aspx)
 * [New High Performance Capabilities for Windows Azure](http://blogs.technet.com/b/windowshpc/archive/2014/01/30/new-high-performance-capabilities-for-windows-azure.aspx)
