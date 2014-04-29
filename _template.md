@@ -12,28 +12,7 @@ This guide is available as a [single page](singlepage.md) or [split into multipl
 
 ---
 
- * [0 Data Centers](0 Data Centers.md)
-
-## App Services
-
- * [Service Bus](App Services/Service Bus.md)
-
-## Compute
-
- * [Cloud Services](Compute/Cloud Services.md)
- * [Virtual Machines](Compute/Virtual Machines.md)
- * [Web Sites](Compute/Web Sites.md)
-
-## Data Services
-
- * [SQL Database](Data Services/SQL Database.md)
- * [Storage](Data Services/Storage.md)
-
-## Network Services
-
- * [Traffic Manager](Network Services/Traffic Manager.md)
- * [Virtual Network](Network Services/Virtual Network.md)
-
+<REPLACE>
 
 ## Misc
 

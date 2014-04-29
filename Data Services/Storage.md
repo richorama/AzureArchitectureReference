@@ -1,4 +1,6 @@
-﻿* Total capacity: __200 TB__
+﻿### Storage
+
+* Total capacity: __200 TB__
 * Expected transactions per second: __20,000__ per account
 * Total bandwidth: __10 GB in 15 GB out per second__ (5 GB and 10 GB respectively for geo redundant)
 * Maximum number of accounts: __20__ `soft limit`, __50__ `hard limit`

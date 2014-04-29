@@ -1,4 +1,6 @@
-﻿* Asia Pacific
+﻿## Data Centers
+
+* Asia Pacific
   * Asia Pacific East (Hong Kong)
   * Asia Pacific Southeast (Singapore)
 * Europe
@@ -22,10 +24,9 @@
 
 To find your nearest Data Center, use the [Azure Speed Test](http://azurespeedtest.azurewebsites.net/).
 
-
 ---
 
-## References
+#### References
 
 * [Trust Center - Location of Customer Data](http://azure.microsoft.com/en-us/support/trust-center/privacy/)
 * [Microsoft becomes the first global public cloud provider in China with the general availability of Microsoft Azure in the region](http://blogs.technet.com/b/microsoft_blog/archive/2014/03/26/microsoft-becomes-the-first-global-public-cloud-provider-in-china-with-the-general-availability-of-microsoft-azure-in-the-region.aspx)

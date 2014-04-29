@@ -9,6 +9,6 @@
 
 ---
 
-## References
+#### References
 
 * [Windows Azure Table Storage and Windows Azure SQL Database - Compared and Contrasted](http://msdn.microsoft.com/library/azure/jj553018.aspx)
