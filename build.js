@@ -21,8 +21,8 @@ function scanDirectory(directory){
 
 function appendFile(filename){
 	console.log(filename);
-	var fileContent = fs.readFileSync(filename).toString();
-	if (fileContent.trim().length > 0){
+	var fileContent = fs.readFileSync(filename).toString().trim();
+	if (fileContent.length > 0){
 		content += fileContent + '\n\n';
 		var splitFilename = filename.split('/');
 		links += ' * [' + splitFilename[splitFilename.length - 1].replace(".md","") + '](' + filename + ')\n';		

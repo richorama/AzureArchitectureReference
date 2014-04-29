@@ -12,7 +12,7 @@ This guide is available as a [single page](singlepage.md) or [split into multipl
 
 ---
 
-﻿## Data Centers
+## Data Centers
 
 * Asia Pacific
   * Asia Pacific East (Hong Kong)
@@ -45,10 +45,9 @@ To find your nearest Data Center, use the [Azure Speed Test](http://azurespeedte
 * [Trust Center - Location of Customer Data](http://azure.microsoft.com/en-us/support/trust-center/privacy/)
 * [Microsoft becomes the first global public cloud provider in China with the general availability of Microsoft Azure in the region](http://blogs.technet.com/b/microsoft_blog/archive/2014/03/26/microsoft-becomes-the-first-global-public-cloud-provider-in-china-with-the-general-availability-of-microsoft-azure-in-the-region.aspx)
 
-
 ## App Services
 
-﻿### Service Bus
+### Service Bus
 
 * Max number of service bus namespaces: __50__ per Azure Acccount
 * Expected transactions per second: __2,000__ per queue
@@ -132,11 +131,9 @@ Capacity Approximations:
 * [Capacity Planning for Service Bus Queues and Topics](http://msdn.microsoft.com/en-us/library/hh694235.aspx)
 * [Windows Azure Service Bus Quotas](http://msdn.microsoft.com/library/azure/ee732538.aspx)
 
-
-
 ## Compute
 
-﻿### Cloud Services
+### Cloud Services
 
 Virtual Machine sizes:
 
@@ -200,8 +197,7 @@ Notes
 * [A8 and A9 Compute Intensive Instances: Quick Start with HPC Pack](http://msdn.microsoft.com/library/azure/dn594431.aspx)
 * [Virtual Machine and Cloud Service Sizes for Azure](http://msdn.microsoft.com/en-us/library/azure/dn197896.aspx)
 
-
-﻿### Virtual Machines
+### Virtual Machines
 
 Virtual Machine sizes:
 
@@ -242,9 +238,7 @@ _[a] Disk (VM) is the temp drive available on Virtual Machines_
 * [Virtual Machine and Cloud Service Sizes for Azure](http://msdn.microsoft.com/en-us/library/azure/dn197896.aspx)
 * [Windows Azure, Increase Cores count	](http://blogs.msdn.com/b/arunrakwal/archive/2012/04/11/windows-azure-how-to-increase-cores-per-subscription.aspx)
 
-
-
-﻿### Web Sites
+### Web Sites
 
 * Max free web sites per Data Center: __10__
 * Max shared websites per Data Center: __100__
@@ -262,10 +256,9 @@ _[a] Disk (VM) is the temp drive available on Virtual Machines_
 * [Azure Websites](http://azure.microsoft.com/en-us/develop/net/aspnet/)
 * [How to Scale Web Sites](http://azure.microsoft.com/en-us/documentation/articles/web-sites-scale/)
 
-
 ## Data Services
 
-﻿### SQL Database
+### SQL Database
 
 * Max size: __150 GB__
 * Max database servers: __6__ per Azure Account `soft limit`
@@ -280,8 +273,7 @@ _[a] Disk (VM) is the temp drive available on Virtual Machines_
 
 * [Windows Azure Table Storage and Windows Azure SQL Database - Compared and Contrasted](http://msdn.microsoft.com/library/azure/jj553018.aspx)
 
-
-﻿### Storage
+### Storage
 
 * Total capacity: __200 TB__
 * Expected transactions per second: __20,000__ per account
@@ -345,11 +337,9 @@ ServicePointManager.DefaultConnectionLimit = 100;
 * [MVA - Design & Implementation Jump Start](http://www.microsoftvirtualacademy.com/training-courses/windows-azure-storage-design-and-implementation-jump-start)
 * [Number of accounts hard limit](https://twitter.com/jaiharidas/status/459528997030748160)
 
-
-
 ## Network Services
 
-﻿### Traffic Manager
+### Traffic Manager
 
 * Naming constraints: __253 characters in total for the *.trafficmanager.net domain, maximum of 38 sub domains, each of which can be up to 63 characters__
 * TTL recommendation: __5 minutes__
@@ -362,8 +352,7 @@ ServicePointManager.DefaultConnectionLimit = 100;
 
 * [Traffic Manager Overview](http://msdn.microsoft.com/library/azure/hh744833.aspx)
 
-
-﻿### Virtual Network
+### Virtual Network
 
 * Max VPN client endpoints: __250__
 * SLA: __99.9%__
@@ -374,7 +363,6 @@ ServicePointManager.DefaultConnectionLimit = 100;
 #### References
 
 * [Virtual Network FAQ](http://msdn.microsoft.com/library/azure/dn133803.aspx)
-
 
 
 
