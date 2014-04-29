@@ -1,6 +1,6 @@
 # Azure Architect's Reference
 
-A one-page summary of the facts and figures for Microsoft Azure Services.
+A summary of the facts and figures for Microsoft Azure Services.
 
 All figures have been taken from official Microsoft web sites (see the refrences at the bottom).
 
@@ -8,31 +8,31 @@ This reference does not attempt to cover cost. Please refer to the [Azure Pricin
 
 This guide is incomplete. Please fork, adjust and send a pull request (please include a link to official Microsoft documentation for any information added to the page).
 
-This guide is available as a [single page](singlepage.md) or [split into multiple pages](readme.md).
+This reference is available as a [single page](singlepage.md) or [split into multiple pages](readme.md).
 
 ---
 
- * [0 Data Centers](0 Data Centers.md)
-
-## App Services
-
- * [Service Bus](App Services/Service Bus.md)
+ * [Data Centers](0 Data Centers.md)
 
 ## Compute
 
- * [Cloud Services](Compute/Cloud Services.md)
- * [Virtual Machines](Compute/Virtual Machines.md)
- * [Web Sites](Compute/Web Sites.md)
+ * [Cloud Services](1 Compute/Cloud Services.md)
+ * [Virtual Machines](1 Compute/Virtual Machines.md)
+ * [Web Sites](1 Compute/Web Sites.md)
+
+## App Services
+
+ * [Service Bus](2 App Services/Service Bus.md)
 
 ## Data Services
 
- * [SQL Database](Data Services/SQL Database.md)
- * [Storage](Data Services/Storage.md)
+ * [SQL Database](3 Data Services/SQL Database.md)
+ * [Storage](3 Data Services/Storage.md)
 
 ## Network Services
 
- * [Traffic Manager](Network Services/Traffic Manager.md)
- * [Virtual Network](Network Services/Virtual Network.md)
+ * [Traffic Manager](4 Network Services/Traffic Manager.md)
+ * [Virtual Network](4 Network Services/Virtual Network.md)
 
 
 ## Misc

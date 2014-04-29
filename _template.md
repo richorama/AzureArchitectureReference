@@ -1,6 +1,6 @@
 # Azure Architect's Reference
 
-A one-page summary of the facts and figures for Microsoft Azure Services.
+A summary of the facts and figures for Microsoft Azure Services.
 
 All figures have been taken from official Microsoft web sites (see the refrences at the bottom).
 
@@ -8,7 +8,7 @@ This reference does not attempt to cover cost. Please refer to the [Azure Pricin
 
 This guide is incomplete. Please fork, adjust and send a pull request (please include a link to official Microsoft documentation for any information added to the page).
 
-This guide is available as a [single page](singlepage.md) or [split into multiple pages](readme.md).
+This reference is available as a [single page](singlepage.md) or [split into multiple pages](readme.md).
 
 ---
 
