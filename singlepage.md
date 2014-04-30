@@ -263,21 +263,21 @@ Capacity Approximations:
 __Basic Tier__
 
 * Max size: __2 GB__
-* Restore window: __24 hours__
+* Self Service Restore window: __24 hours__
 * Geo replication: __none__
 * Performance level: __Basic__
 
 __Standard Tier__
 
 * Max size: __250 GB__
-* Restore window: __7 days__
+* Self Service Restore window: __7 days__
 * Geo replication: __none__
 * Performance level: __S1 S2__
 
 __Premium Tier__
 
 * Max size: __500 GB__
-* Restore window: __35 days__
+* Self Service Restore window: __35 days__
 * Geo replication: __max 4 readable secondaries__
 * Performance level: __P1 P2 P3__
 
@@ -449,6 +449,8 @@ __Performance Levels__
 * [Windows Azure Table Storage and Windows Azure SQL Database - Compared and Contrasted](http://msdn.microsoft.com/library/azure/jj553018.aspx)
 * [Scott Gu's Blog - Azure: 99.95% SQL Database SLA, 500 GB DB Size, Improved Performance Self-Service Restore, and Business Continuity](http://weblogs.asp.net/scottgu/archive/2014/04/29/azure-99-95-sql-database-sla-500-gb-db-size-improved-performance-self-service-restore-and-business-continuity.aspx)
 * [Azure SQL Database introduces new service tiers](http://blogs.msdn.com/b/windowsazure/archive/2014/04/24/azure-sql-database-introduces-new-service-tiers.aspx)
+* [Azure SQL Database Service Tiers and Performance Levels](http://msdn.microsoft.com/en-us/library/azure/dn741336.aspx)
+* [Azure SQL Database Business Continuity](http://msdn.microsoft.com/library/azure/hh852669.aspx)
 
 ---
 
