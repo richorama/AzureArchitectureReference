@@ -317,122 +317,122 @@ __Performance Levels__
       </tr>
       <tr>
         <td>
-          <p>Basic</p>
+          Basic
         </td>
         <td>
-          <p>1</p>
+          1
         </td>
         <td>
-          <p>20</p>
+          20
         </td>
         <td>
-          <p>100</p>
+          100
         </td>
         <td>
-          <p>3,467 transactions per hour</p>
+          3,467 transactions per hour
         </td>
         <td>
-          <p>Good</p>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <p>Standard/S1</p>
-        </td>
-        <td>
-          <p>5</p>
-        </td>
-        <td>
-          <p>50</p>
-        </td>
-        <td>
-          <p>200</p>
-        </td>
-        <td>
-          <p>283 transactions per minute</p>
-        </td>
-        <td>
-          <p>Better</p>
+          Good
         </td>
       </tr>
       <tr>
         <td>
-          <p>Standard/S2</p>
+          Standard/S1
         </td>
         <td>
-          <p>25</p>
+          5
         </td>
         <td>
-          <p>100</p>
+          50
         </td>
         <td>
-          <p>500</p>
+          200
         </td>
         <td>
-          <p>1,470 transactions per minute</p>
+          283 transactions per minute
         </td>
         <td>
-          <p>Better</p>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <p>Premium/P1</p>
-        </td>
-        <td>
-          <p>100</p>
-        </td>
-        <td>
-          <p>200</p>
-        </td>
-        <td>
-          <p>2,000</p>
-        </td>
-        <td>
-          <p>98 transactions per second </p>
-        </td>
-        <td>
-          <p>Best</p>
+          Better
         </td>
       </tr>
       <tr>
         <td>
-          <p>Premium/P2</p>
+          Standard/S2
         </td>
         <td>
-          <p>200</p>
+          25
         </td>
         <td>
-          <p>400</p>
+          100
         </td>
         <td>
-          <p>4,000</p>
+          500
         </td>
         <td>
-          <p>192 transactions per second</p>
+          1,470 transactions per minute
         </td>
         <td>
-          <p>Best</p>
+          Better
         </td>
       </tr>
       <tr>
         <td>
-          <p>Premium/P3</p>
+          Premium/P1
         </td>
         <td>
-          <p>800</p>
+          100
         </td>
         <td>
-          <p>1,600</p>
+          200
         </td>
         <td>
-          <p>16,000</p>
+          2,000
         </td>
         <td>
-          <p>730 transactions per second</p>
+          98 transactions per second 
         </td>
         <td>
-          <p>Best</p>
+          Best
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Premium/P2
+        </td>
+        <td>
+          200
+        </td>
+        <td>
+          400
+        </td>
+        <td>
+          4,000
+        </td>
+        <td>
+          192 transactions per second
+        </td>
+        <td>
+          Best
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Premium/P3
+        </td>
+        <td>
+          800
+        </td>
+        <td>
+          1,600
+        </td>
+        <td>
+          16,000
+        </td>
+        <td>
+          730 transactions per second
+        </td>
+        <td>
+          Best
         </td>
       </tr>
     </tbody>
