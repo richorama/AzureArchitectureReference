@@ -69,7 +69,7 @@ __Performance Levels__
           100
         </td>
         <td>
-          3,467 transactions per hour
+          3,467 transactions/hour
         </td>
         <td>
           Good
@@ -89,7 +89,7 @@ __Performance Levels__
           200
         </td>
         <td>
-          283 transactions per minute
+          283 transactions/minute
         </td>
         <td>
           Better
@@ -109,7 +109,7 @@ __Performance Levels__
           500
         </td>
         <td>
-          1,470 transactions per minute
+          1,470 transactions/minute
         </td>
         <td>
           Better
@@ -129,7 +129,7 @@ __Performance Levels__
           2,000
         </td>
         <td>
-          98 transactions per second 
+          98 transactions/second 
         </td>
         <td>
           Best
@@ -149,7 +149,7 @@ __Performance Levels__
           4,000
         </td>
         <td>
-          192 transactions per second
+          192 transactions/second
         </td>
         <td>
           Best
@@ -169,7 +169,7 @@ __Performance Levels__
           16,000
         </td>
         <td>
-          730 transactions per second
+          730 transactions/second
         </td>
         <td>
           Best
