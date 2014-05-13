@@ -1,14 +1,15 @@
 ﻿### Storage
 
-* Total capacity: __200 TB__
+* Total capacity: __500 TB__
 * Expected transactions per second: __20,000__ per account
-* Total bandwidth: __10 GB in 15 GB out per second__ (5 GB and 10 GB respectively for geo redundant)
+* Total bandwidth for US Regions: __20 GB in 30 GB out per second__ (10 GB and 20 GB respectively for geo redundant)
+* Total bandwidth for Europeans and Asian Regions: __10 GB in 15 GB out per second__ (5 GB and 10 GB respectively for geo redundant)
 * Maximum number of accounts: __20__ `soft limit`, __50__ `hard limit`
 * SLA: __99.9%__
 
 #### Blob Storage
 
-* Expected transactions per second: __2,000__ per blob 
+* Expected transactions per second: __500__ per blob 
 * Expected bandwidth: __60 MB per second__
 * Max blob size: __200 GB (block blob) 1 TB (page blob)__
 
@@ -37,7 +38,6 @@
 
 #### Best Practices 
 
-
 * Disable Nagle for small messages (<1.4k)
 * Disable Expect 100-Continue*
 * Increase default connection limit (ex. 100+)
@@ -59,4 +59,5 @@ ServicePointManager.DefaultConnectionLimit = 100;
 * [Understanding the Table Service Data Model](http://msdn.microsoft.com/library/azure/dd179338.aspx)
 * [MVA - Design & Implementation Jump Start](http://www.microsoftvirtualacademy.com/training-courses/windows-azure-storage-design-and-implementation-jump-start)
 * [Number of accounts hard limit](https://twitter.com/jaiharidas/status/459528997030748160)
+* [Azure Storage Scalability and Performance Targets](http://msdn.microsoft.com/en-us/library/azure/dn249410.aspx)
 
