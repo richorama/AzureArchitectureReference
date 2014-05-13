@@ -508,8 +508,6 @@ ServicePointManager.DefaultConnectionLimit = 100;
 #### References
 
 * [Windows Azure Queues and Windows Azure Service Bus Queues - Compared and Contrasted](http://msdn.microsoft.com/library/azure/hh767287.aspx)
-* [Azure Storage Scalability and Performance Targets](http://msdn.microsoft.com/library/azure/dn249410.aspx)
-* [Windows Azure’s Flat Network Storage and 2012 Scalability Targets](http://blogs.msdn.com/b/windowsazure/archive/2012/11/02/windows-azure-s-flat-network-storage-and-2012-scalability-targets.aspx)
 * [Windows Azure Table Storage and Windows Azure SQL Database - Compared and Contrasted](http://msdn.microsoft.com/library/azure/jj553018.aspx)
 * [Storage](http://azure.microsoft.com/en-us/services/storage/)
 * [Understanding the Table Service Data Model](http://msdn.microsoft.com/library/azure/dd179338.aspx)
