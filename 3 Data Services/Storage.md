@@ -36,6 +36,15 @@
 * Max number of queues: __unlimited__
 * Naming constraints: __queues names no longer than 63 chars__ (lower case)
 
+#### Azure Files (preview)
+
+* Max share size: __5 TB__ per share
+* Expected bandwidth: __60 MB per second per share__
+* Max file size: __1 TB__ per file
+* Max 8 KB IOps: __1000 IOps__
+
+> Note only accessible over SMB 2.1 protocol from a VM within the same region. REST access from anywhere. Read-only geo redundancy not available.
+
 #### Best Practices 
 
 * Disable Nagle for small messages (<1.4k)
@@ -58,4 +67,5 @@ ServicePointManager.DefaultConnectionLimit = 100;
 * [MVA - Design & Implementation Jump Start](http://www.microsoftvirtualacademy.com/training-courses/windows-azure-storage-design-and-implementation-jump-start)
 * [Number of accounts hard limit](https://twitter.com/jaiharidas/status/459528997030748160)
 * [Azure Storage Scalability and Performance Targets](http://msdn.microsoft.com/en-us/library/azure/dn249410.aspx)
+* [Introducing Microsoft Azure File Service](http://blogs.msdn.com/b/windowsazurestorage/archive/2014/05/12/introducing-microsoft-azure-file-service.aspx)
 
