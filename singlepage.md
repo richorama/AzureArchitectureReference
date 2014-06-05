@@ -34,7 +34,7 @@ This reference is available as a [single page](singlepage.md) or [split into mul
   * Beijing
   * Shanghai
 * South America
-  * Brazil South (São Paulo) `PREVIEW`
+  * Brazil South (São Paulo)
 
 > *Note: Microsoft Azure services in China Data Centres are only available for use from within China itself. These data centers are disconnected from rest of the Microsoft Azure Data Centres. You can visit the chinese version of Microsoft Azure at: http://windowsazure.cn/
 
