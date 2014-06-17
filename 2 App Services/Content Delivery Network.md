@@ -18,4 +18,4 @@ View the locations on a [map](https://gist.github.com/maartenba/10100263) (uses 
 
 ### References
 
-[http://msdn.microsoft.com/en-US/library/azure/gg680302.aspx](Azure Content Delivery Network (CDN) Node Locations)
+[Azure Content Delivery Network (CDN) Node Locations](http://msdn.microsoft.com/en-US/library/azure/gg680302.aspx)
