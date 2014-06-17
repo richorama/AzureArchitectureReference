@@ -1,7 +1,5 @@
 ﻿## Content Delivery Network
 
-View the CDN node locations 
-
 * United States
   * East: Atlanta, Miami, New York, Washington D.C.
   * North Central: Chicago
