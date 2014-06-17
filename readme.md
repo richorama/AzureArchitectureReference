@@ -25,6 +25,7 @@ This reference is available as a [single page](singlepage.md) or [split into mul
 
 ## App Services
 
+ * [Content Delivery Network](2 App Services/Content Delivery Network.md)
  * [Service Bus](2 App Services/Service Bus.md)
 
 ## Data Services
