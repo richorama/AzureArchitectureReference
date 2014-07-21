@@ -35,6 +35,7 @@
 * Lease / Lock duration: __30 seconds (default) 7 days(max)__
 * Max number of queues: __unlimited__
 * Naming constraints: __queues names no longer than 63 chars__ (lower case)
+* Number of messages you can pop in one transaction: __32__
 
 #### Azure Files (preview)
 
