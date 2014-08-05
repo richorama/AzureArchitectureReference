@@ -26,7 +26,9 @@ This reference is available as a [single page](singlepage.md) or [split into mul
   * US North Central (Illinois)
   * US South Central (Texas)
   * US East (Virginia)
+  * US East 2 (Virginia)
   * US West (California)
+  * US Central (Iowa)
 * Japan
   * Japan East (Tokyo)
   * Japan West (Osaka)
@@ -46,6 +48,7 @@ View the locations on a [map](https://gist.github.com/richorama/e0df02d7be73e974
 
 * [Trust Center - Location of Customer Data](http://azure.microsoft.com/en-us/support/trust-center/privacy/)
 * [Microsoft becomes the first global public cloud provider in China with the general availability of Microsoft Azure in the region](http://blogs.technet.com/b/microsoft_blog/archive/2014/03/26/microsoft-becomes-the-first-global-public-cloud-provider-in-china-with-the-general-availability-of-microsoft-azure-in-the-region.aspx)
+* [Azure Regions](https://azure.microsoft.com/en-us/regions/)
 
 ---
 
