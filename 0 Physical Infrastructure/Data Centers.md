@@ -28,6 +28,8 @@ To find your nearest Data Center, use the [Azure Speed Test](http://azurespeedte
 
 View the locations on a [map](https://gist.github.com/richorama/e0df02d7be73e974ca29) (uses a geojson gist).
 
+A list of services available in each Data Center is available [here](http://azure.microsoft.com/en-us/regions/#services).
+
 #### References
 
 * [Trust Center - Location of Customer Data](http://azure.microsoft.com/en-us/support/trust-center/privacy/)
