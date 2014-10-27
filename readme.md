@@ -10,6 +10,8 @@ This guide is incomplete. Please fork, adjust and send a pull request (please in
 
 This reference is available as a [single page](singlepage.md) or [split into multiple pages](readme.md).
 
+Please also see [Azure Subscription and Service Limits, Quotas, and Constraints](http://azure.microsoft.com/en-gb/documentation/articles/azure-subscription-service-limits/) for more information.
+
 ---
 
 
