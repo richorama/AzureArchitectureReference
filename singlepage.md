@@ -535,7 +535,7 @@ __Performance Levels__
 * Expected transactions per second: __20,000__ per account
 * Total bandwidth for US Regions: __20 GB in 30 GB out per second__ (10 GB and 20 GB respectively for geo redundant)
 * Total bandwidth for Europeans and Asian Regions: __10 GB in 15 GB out per second__ (5 GB and 10 GB respectively for geo redundant)
-* Maximum number of accounts: __20__ `soft limit`, __50__ `hard limit`
+* Maximum number of accounts: __100__
 * SLA: __99.9%__
 
 #### Blob Storage
@@ -597,9 +597,9 @@ ServicePointManager.DefaultConnectionLimit = 100;
 * [Storage](http://azure.microsoft.com/en-us/services/storage/)
 * [Understanding the Table Service Data Model](http://msdn.microsoft.com/library/azure/dd179338.aspx)
 * [MVA - Design & Implementation Jump Start](http://www.microsoftvirtualacademy.com/training-courses/windows-azure-storage-design-and-implementation-jump-start)
-* [Number of accounts hard limit](https://twitter.com/jaiharidas/status/459528997030748160)
 * [Azure Storage Scalability and Performance Targets](http://msdn.microsoft.com/en-us/library/azure/dn249410.aspx)
 * [Introducing Microsoft Azure File Service](http://blogs.msdn.com/b/windowsazurestorage/archive/2014/05/12/introducing-microsoft-azure-file-service.aspx)
+* [Azure Subscription and Service Limits, Quotas, and Constraints](http://azure.microsoft.com/en-gb/documentation/articles/azure-subscription-service-limits/#storagelimits)
 
 ---
 
