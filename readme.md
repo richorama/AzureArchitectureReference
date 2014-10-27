@@ -1,4 +1,5 @@
 # Azure Architect's Reference
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/richorama/AzureArchitectureReference?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 A summary of the facts and figures for Microsoft Azure Services.
 
