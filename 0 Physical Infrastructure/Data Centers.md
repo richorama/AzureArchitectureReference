@@ -19,6 +19,9 @@
 * China*
   * Beijing
   * Shanghai
+* Australia
+  * Austalia East (Sydney)
+  * Australia Southeast (Melbourne)
 * South America
   * Brazil South (São Paulo)
 

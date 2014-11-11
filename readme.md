@@ -1,5 +1,4 @@
 # Azure Architect's Reference
-[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/richorama/AzureArchitectureReference?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 A summary of the facts and figures for Microsoft Azure Services.
 
@@ -10,8 +9,6 @@ This reference does not attempt to cover cost. Please refer to the [Azure Pricin
 This guide is incomplete. Please fork, adjust and send a pull request (please include a link to official Microsoft documentation for any information added to the page).
 
 This reference is available as a [single page](singlepage.md) or [split into multiple pages](readme.md).
-
-Please also see [Azure Subscription and Service Limits, Quotas, and Constraints](http://azure.microsoft.com/en-gb/documentation/articles/azure-subscription-service-limits/) for more information.
 
 ---
 
