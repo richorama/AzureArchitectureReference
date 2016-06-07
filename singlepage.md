@@ -22,6 +22,7 @@ This reference is available as a [single page](singlepage.md) or [split into mul
 * Europe
   * Europe North (Ireland)
   * Europe West (Netherlands)
+  * United Kingdom (TBA)
 * United States
   * US North Central (Illinois)
   * US South Central (Texas)
@@ -32,7 +33,7 @@ This reference is available as a [single page](singlepage.md) or [split into mul
 * Japan
   * Japan East (Tokyo)
   * Japan West (Osaka)
-* China*
+* China
   * Beijing
   * Shanghai
 * Australia
@@ -40,6 +41,12 @@ This reference is available as a [single page](singlepage.md) or [split into mul
   * Australia Southeast (Melbourne)
 * South America
   * Brazil South (São Paulo)
+* India
+  *Mumbai
+  *Chennai
+  *Pune
+
+
 
 > *Note: Microsoft Azure services in China Data Centres are only available for use from within China itself. These data centers are disconnected from rest of the Microsoft Azure Data Centres. You can visit the chinese version of Microsoft Azure at: http://windowsazure.cn/
 
