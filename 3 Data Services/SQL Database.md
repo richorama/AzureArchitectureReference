@@ -4,26 +4,26 @@ __Basic Tier__
 
 * Max size: __2 GB__
 * Self Service Restore window: __24 hours__
-* Geo replication: __none__
+* Geo replication: __Active__
 * Performance level: __Basic__
 
 __Standard Tier__
 
 * Max size: __250 GB__
 * Self Service Restore window: __7 days__
-* Geo replication: __none__
-* Performance level: __S1 S2__
+* Geo replication: __Active__
+* Performance level: __S0 S1 S2 S3__
 
 __Premium Tier__
 
-* Max size: __500 GB__
+* Max size: __500 GB to 1024 GB (P11 only)__
 * Self Service Restore window: __35 days__
 * Geo replication: __max 4 readable secondaries__
-* Performance level: __P1 P2 P3__
+* Performance level: __P1 P2 P4 P6 P11__
 
 __All Tiers__
 
-* SLA: __99.95%__ `Not available while in preview`
+* SLA: __99.99%__
 * Max database servers: __6__ per Azure Account `soft limit`
 * Max databases per server: __150__ (including master) `soft limit`
 * Max number of database backup schedules: __10__ per subscription
@@ -60,7 +60,7 @@ __Performance Levels__
           Basic
         </td>
         <td>
-          1
+          5
         </td>
         <td>
           20
@@ -77,10 +77,30 @@ __Performance Levels__
       </tr>
       <tr>
         <td>
+          Standard/S0
+        </td>
+        <td>
+          10
+        </td>
+        <td>
+          50
+        </td>
+        <td>
+          200
+        </td>
+        <td>
+          283 transactions/minute
+        </td>
+        <td>
+          Better
+        </td>
+      </tr>
+      <tr>
+        <td>
           Standard/S1
         </td>
         <td>
-          5
+          20
         </td>
         <td>
           50
@@ -100,7 +120,7 @@ __Performance Levels__
           Standard/S2
         </td>
         <td>
-          25
+          50
         </td>
         <td>
           100
@@ -117,10 +137,30 @@ __Performance Levels__
       </tr>
       <tr>
         <td>
-          Premium/P1
+          Standard/S3
         </td>
         <td>
           100
+        </td>
+        <td>
+          
+        </td>
+        <td>
+          
+        </td>
+        <td>
+          
+        </td>
+        <td>
+          Better
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Premium/P1
+        </td>
+        <td>
+          125
         </td>
         <td>
           200
@@ -140,7 +180,7 @@ __Performance Levels__
           Premium/P2
         </td>
         <td>
-          200
+          250
         </td>
         <td>
           400
@@ -157,10 +197,10 @@ __Performance Levels__
       </tr>
       <tr>
         <td>
-          Premium/P3
+          Premium/P4
         </td>
         <td>
-          800
+          500
         </td>
         <td>
           1,600
@@ -170,6 +210,46 @@ __Performance Levels__
         </td>
         <td>
           730 transactions/second
+        </td>
+        <td>
+          Best
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Premium/P6
+        </td>
+        <td>
+          1000
+        </td>
+        <td>
+          
+        </td>
+        <td>
+          
+        </td>
+        <td>
+          
+        </td>
+        <td>
+          Best
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Premium/P11
+        </td>
+        <td>
+          1750
+        </td>
+        <td>
+          
+        </td>
+        <td>
+          
+        </td>
+        <td>
+          
         </td>
         <td>
           Best
