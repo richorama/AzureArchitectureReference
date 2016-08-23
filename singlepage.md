@@ -348,23 +348,23 @@ Capacity Approximations:
 __Basic Tier__
 
 * Max size: __2 GB__
-* Self Service Restore window: __24 hours__
+* Self Service Restore window: __7 days__
 * Geo replication: __Active__
 * Performance level: __Basic__
 
 __Standard Tier__
 
 * Max size: __250 GB__
-* Self Service Restore window: __7 days__
+* Self Service Restore window: __35 days__
 * Geo replication: __Active__
 * Performance level: __S0 S1 S2 S3__
 
 __Premium Tier__
 
-* Max size: __500 GB to 1024 GB (P11 only)__
+* Max size: __500 GB (P1 - P6) or 1024 GB (P11 and P15 only)__
 * Self Service Restore window: __35 days__
 * Geo replication: __max 4 readable secondaries__
-* Performance level: __P1 P2 P4 P6 P11__
+* Performance level: __P1 P2 P4 P6 P11 P15__
 
 __All Tiers__
 
@@ -586,6 +586,26 @@ __Performance Levels__
         </td>
         <td>
           1750
+        </td>
+        <td>
+          
+        </td>
+        <td>
+          
+        </td>
+        <td>
+          
+        </td>
+        <td>
+          Best
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Premium/P15
+        </td>
+        <td>
+          4000
         </td>
         <td>
           

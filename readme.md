@@ -53,7 +53,6 @@ Thanks to the contributors:
 * [Randy Skopecek](https://github.com/rskopecek)
 * [Howard van Rooijen](https://github.com/HowardvanRooijen)
 * [Anton Staykov](https://github.com/astaykov)
-* [Sven Aelterman](https://github.com/SvenAelterman)
 
 ...and thanks to [Rob Blackwell](https://github.com/RobBlackwell) for the idea.
 
