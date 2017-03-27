@@ -143,13 +143,13 @@ __Performance Levels__
           100
         </td>
         <td>
-          
+          -
         </td>
         <td>
-          
+          -
         </td>
         <td>
-          
+          -
         </td>
         <td>
           Better
@@ -223,13 +223,13 @@ __Performance Levels__
           1000
         </td>
         <td>
-          
+          -
         </td>
         <td>
-          
+          -
         </td>
         <td>
-          
+          -
         </td>
         <td>
           Best
@@ -243,13 +243,13 @@ __Performance Levels__
           1750
         </td>
         <td>
-          
+          -
         </td>
         <td>
-          
+          -
         </td>
         <td>
-          
+          -
         </td>
         <td>
           Best
@@ -263,13 +263,13 @@ __Performance Levels__
           4000
         </td>
         <td>
-          
+          -
         </td>
         <td>
-          
+          -
         </td>
         <td>
-          
+          -
         </td>
         <td>
           Best
