@@ -15,34 +15,34 @@ This reference is available as a [single page](singlepage.md) or [split into mul
 
 ## Physical Infrastructure
 
- * [Data Centers](0 Physical Infrastructure/Data Centers.md)
+ * [Data Centers](0%20Physical%20Infrastructure/Data%20Centers.md)
 
 ## Compute
 
- * [Cloud Services](1 Compute/Cloud Services.md)
- * [Virtual Machines](1 Compute/Virtual Machines.md)
- * [Web Sites](1 Compute/Web Sites.md)
+ * [Cloud Services](1%20Compute/Cloud%20Services.md)
+ * [Virtual Machines](1%20Compute/Virtual%20Machines.md)
+ * [Web Sites](1%20Compute/Web%20Sites.md)
 
 ## App Services
 
- * [Content Delivery Network](2 App Services/Content Delivery Network.md)
- * [Search Service](2 App Services/Search Service.md)
- * [Service Bus](2 App Services/Service Bus.md)
+ * [Content Delivery Network](2%20App%20Services/Content%20Delivery%20Network.md)
+ * [Search Service](2%20App%20Services/Search%20Service.md)
+ * [Service Bus](2%20App%20Services/Service%20Bus.md)
 
 ## Data Services
 
- * [SQL Database](3 Data Services/SQL Database.md)
- * [Storage](3 Data Services/Storage.md)
+ * [SQL Database](3%20Data%20Services/SQL%20Database.md)
+ * [Storage](3%20Data%20Services/Storage.md)
 
 ## Network Services
 
- * [Traffic Manager](4 Network Services/Traffic Manager.md)
- * [Virtual Network](4 Network Services/Virtual Network.md)
+ * [Traffic Manager](4%20Network%20Services/Traffic%20Manager.md)
+ * [Virtual Network](4%20Network%20Services/Virtual%20Network.md)
 
 ## Misc
 
- * [Account Limitations](5 Misc/Account Limitations.md)
- * [Service Levels](5 Misc/Service Levels.md)
+ * [Account Limitations](5%20Misc/Account%20Limitations.md)
+ * [Service Levels](5%20Misc/Service%20Levels.md)
 
 
 ## Acknowledgements
